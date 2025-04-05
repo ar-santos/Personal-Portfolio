@@ -12,4 +12,4 @@ Este é o meu portfólio pessoal, desenvolvido como parte dos desafios da [freeC
 ## 📁 Como Visualizar
 
 Você pode visualizar o projeto acessando:
-🔗 [Link do Projeto](https://seu-link-aqui.com)
+🔗 [Link do Projeto](https://ar-santos.github.io/Personal-Portfolio/)
